@@ -8,3 +8,5 @@ In this project:
 - CSS was employed to style the elements, apply a color palette, set typography, and ensure responsive design.
 
 This project was developed to enhance front-end development skills and understand the fundamental design principles of a real-world website.
+
+![](AmazonClone.gif)
