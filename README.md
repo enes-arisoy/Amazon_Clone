@@ -19,6 +19,6 @@ This project was developed to enhance **front-end development** skills and under
 - Adding dynamic features with JavaScript (e.g., product filters, interactive elements).
 - Implementing a backend for user authentication and order processing.
   
-[GitHub Amazon Clone Project](https://tinyurl.com/3yt9we2j)
+https://tinyurl.com/3yt9we2j
 
 ![](AmazonClone.gif)
